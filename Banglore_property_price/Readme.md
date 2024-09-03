@@ -72,7 +72,8 @@ This repository contains a comprehensive data science project that walks through
 
 The dataset used in this project is the Bangalore home prices dataset available on Kaggle. You can download it [here](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data).
 
-## Contributing
+## Contributing!
+
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue if you have any suggestions or improvements.
 
@@ -80,3 +81,6 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 ---
 
 **Happy Coding!**
+![Screenshot (55)](https://github.com/user-attachments/assets/1c3332d4-0577-4dc0-bb99-7075c5ff6210)
+[Screenshot (54)](https://github.com/user-attachments/assets/530bf9b5-66a5-48b7-97d8-5321d3eead61)
+
